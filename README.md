@@ -1,6 +1,7 @@
 # jk3212.github.io
 
 
-git add .
-git commit -m ""
-git push
+## Enviar atualizações para o Github
+- git add .
+- git commit -m ""
+- git push
